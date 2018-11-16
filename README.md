@@ -1,2 +1,3 @@
 # HelloGSA
-Say Hello to the community of Geospatial Analysis
+This is CDSongs from Guangzhou Univ. to say "Hello" to all of you in the community of Geospatial Analysis.
+
